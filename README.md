@@ -1,6 +1,6 @@
 # CnC-TA Folgeposten Tracker
 
-Ein kleines Tampermonkey-Script für **C&C Tiberium Alliances**, das die **10 neuesten Lager und Vorposten** in der Umgebung der aktuell ausgewählten eigenen Basis auf der Weltkarte markiert.
+Ein kleines Tampermonkey-Script für **C&C Tiberium Alliances**, das die **10 neuesten Lager und Vorposten** in der Umgebung der aktuell ausgewählten eigenen Off-Basis auf der Weltkarte markiert.
 
 Zusätzlich werden neu entdeckte Lager und Vorposten direkt im Spielchat gemeldet.
 
